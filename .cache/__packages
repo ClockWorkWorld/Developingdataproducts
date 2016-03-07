@@ -1,0 +1,9 @@
+base
+lattice
+ggplot2
+caret
+devtools
+slidify
+shiny
+rsconnect
+slidifyLibraries
